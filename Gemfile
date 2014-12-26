@@ -45,6 +45,7 @@ gem 'devise', '3.4.1'
 
 # Redcarpet: https://github.com/vmg/redcarpet
 gem 'redcarpet', '3.2.0'
+gem 'active_model_serializers'
 
 # Unicorn: http://unicorn.bogomips.org
 group :production do
